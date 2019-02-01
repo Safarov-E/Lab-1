@@ -4,3 +4,10 @@ C:\Users\LocalUser\Desktop\q\ConsoleApplication1\ConsoleApplication1\bin\Debug\C
 C:\Users\LocalUser\Desktop\q\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\LocalUser\Desktop\q\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\LocalUser\Desktop\q\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Elman\Desktop\Lab-1-master\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
